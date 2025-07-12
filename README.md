@@ -1,12 +1,10 @@
 # Stable-Emotion-Detector
 🔊 Real-time emotion detection using DeepFace and OpenCV with voice feedback via pyttsx3. Minimizes flickering using an emotion buffer for stable results.
 🗂️ Folder Structure
-css
-Copy
-Edit
+
 Stable-Emotion-Detector/
 │
-├── main.py
+├── emotion.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
